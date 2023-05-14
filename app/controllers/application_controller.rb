@@ -15,8 +15,15 @@ class ApplicationController < ActionController::Base
   def create
   end
 
+  
+  def ok
+  end
+    
+
+
     
   def show
   end
  
+
 end
